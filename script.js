@@ -1,32 +1,32 @@
 $(document).ready(function() {
-	$("#q1").click(function{
+	$("#q1").click(function(){
 		$("#a1").toggle();
 	});
-	$("#q2").click(function{
+	$("#q2").click(function(){
 		$("#a2").toggle();
 	});
-	$("#q3").click(function{
+	$("#q3").click(function(){
 			$("#a3").toggle();
 	});
-	$("#q4").click(function{
+	$("#q4").click(function(){
 			$("#a4").toggle();
 	});
-	$("#q5").click(function{
+	$("#q5").click(function(){
 			$("#a5").toggle();
 	});
-	$("#q6").click(function{
+	$("#q6").click(function(){
 			$("#a6").toggle();
 	});
-	$("#q7").click(function{
+	$("#q7").click(function(){
 			$("#a7").toggle();
 	});
-	$("#q8").click(function{
+	$("#q8").click(function(){
 			$("#a8").toggle();
 	});
-	$("#q9").click(function{
+	$("#q9").click(function(){
 			$("#a9").toggle();
 	});
-	$("#q10").click(function{
+	$("#q10").click(function(){
 			$("#a10").toggle();
 	});
 });
