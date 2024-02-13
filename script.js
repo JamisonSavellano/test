@@ -3,7 +3,7 @@ $(document).ready(function() {
 		$("#a1").css("color": "black");
 	});
 	$("#q2").click(function(){
-		$("#a2").css("color": "black");
+		$("#a2").css("color", "black");
 	});
 	$("#q3").click(function(){
 			$("#a3").css("color": "black");
