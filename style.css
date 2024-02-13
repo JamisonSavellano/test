@@ -40,11 +40,13 @@ body{
   }
 
   #left{
+    height:100%;
     width:50%;
     float:left;
   }
 
   #right{
+    height:100%;
     width:50%;
     float:left;
   }
