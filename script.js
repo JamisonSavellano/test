@@ -1,32 +1,62 @@
 $(document).ready(function() {
 	$("#q1").click(function(){
-		$("#a1").css("visibility", "visible");
-	});
+		if ( $('#a1').css('visibility') == 'hidden' )
+			$('#a1').css('visibility','visible');
+		else
+			$('#a1').css('visibility','hidden');
+		});
 	$("#q2").click(function(){
-		$("#a2").toggle();
-	});
+		if ( $('#a2').css('visibility') == 'hidden' )
+			$('#a2').css('visibility','visible');
+		else
+			$('#a2').css('visibility','hidden');
+		});
 	$("#q3").click(function(){
-			$("#a3").toggle();
-	});
+			if ( $('#a3').css('visibility') == 'hidden' )
+			$('#a3').css('visibility','visible');
+		else
+			$('#a3').css('visibility','hidden');
+		});
 	$("#q4").click(function(){
-			$("#a4").toggle();
-	});
+			if ( $('#a4').css('visibility') == 'hidden' )
+			$('#a4').css('visibility','visible');
+		else
+			$('#a4').css('visibility','hidden');
+		});
 	$("#q5").click(function(){
-			$("#a5").toggle();
-	});
+			if ( $('#a5').css('visibility') == 'hidden' )
+			$('#a5').css('visibility','visible');
+		else
+			$('#a5').css('visibility','hidden');
+		});
 	$("#q6").click(function(){
-			$("#a6").toggle();
-	});
+			if ( $('#a6').css('visibility') == 'hidden' )
+			$('#a6').css('visibility','visible');
+		else
+			$('#a6').css('visibility','hidden');
+		});
 	$("#q7").click(function(){
-			$("#a7").toggle();
-	});
+			if ( $('#a7').css('visibility') == 'hidden' )
+			$('#a7').css('visibility','visible');
+		else
+			$('#a7').css('visibility','hidden');
+		});
 	$("#q8").click(function(){
-			$("#a8").toggle();
-	});
+			if ( $('#a8').css('visibility') == 'hidden' )
+			$('#a8').css('visibility','visible');
+		else
+			$('#a8').css('visibility','hidden');
+		});
 	$("#q9").click(function(){
-			$("#a9").toggle();
-	});
+			if ( $('#a9').css('visibility') == 'hidden' )
+			$('#a9').css('visibility','visible');
+		else
+			$('#a9').css('visibility','hidden');
+		});
 	$("#q10").click(function(){
-			$("#a10").toggle();
-	});
+			if ( $('#a10').css('visibility') == 'hidden' )
+			$('#a10').css('visibility','visible');
+		else
+			$('#a10').css('visibility','hidden');
+		});
 });
