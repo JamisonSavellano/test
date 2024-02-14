@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$("#q1").click(function(){
-		$("#a1").css("visibility", "visible");
+		$("#a1").css("visibility": "visible");
 	});
 	$("#q2").click(function(){
 		$("#a2").toggle();
