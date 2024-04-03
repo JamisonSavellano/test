@@ -1,4 +1,4 @@
 # test
 <body>
-  https://jamisonsavellano.github.io/test
+  https://jamisonsavellano.github.io/test/
 </body>
